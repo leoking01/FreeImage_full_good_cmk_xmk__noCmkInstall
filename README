@@ -28,3 +28,12 @@ It is recommended to compile the library in a separate folder. Here's how I do i
 	$ cd build
 	$ cmake ..
 	$ make
+
+
+
+
+support   .
+not  support  cmake  install.   
+
+
+
